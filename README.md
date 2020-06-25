@@ -2,8 +2,19 @@
 
 ## 本笔记参考及来源介绍：
 
+链接：
+- 遇见狂神说：https://space.bilibili.com/95256449/channel/index
+- 尚硅谷官方：https://space.bilibili.com/302417610/channel/index
+- 黑马程序员：https://space.bilibili.com/37974444/channel/index
+- longway777：https://space.bilibili.com/137860026
+- 王道论坛：https://space.bilibili.com/95228778/channel/index
+---
 
-来自于bilibili狂神说大佬:https://space.bilibili.com/95256449/channel/index
+全部来自于bilibili遇见狂神说，尚硅谷，黑马程序员，longway777，王道考研
+- Java
+- JavaWeb
+- Mybatis
+- Spring
 - SpringMVC
 - VUE
 - SpringBoot
@@ -17,31 +28,9 @@
 - ElasticSearch
 - 设计模式
 - Docker
-
+- 操作系统
+- 安卓
+- 设计模式
+- 数据结构与算法
+- ShardingSphere
 ---
-
-黑马程序员
-- Java
-- JavaWeb
-- Mybatis
-- Spring
-
----
-
-王道考研
-- 操作系统：https://www.bilibili.com/video/BV1YE411D7nH
-
----
-
-bilibili上longway777大佬的
-- 安卓教程：https://space.bilibili.com/137860026?spm_id_from=333.788.b_765f7570696e666f.1
-
----
-
-尚硅谷韩顺平大佬的
-- 设计模式：https://www.bilibili.com/video/BV1G4411c7N4
-- 数据结构与算法：https://www.bilibili.com/video/BV1E4411H73v
-
----
-
-> 感谢各位大佬给我学习知识的机会
